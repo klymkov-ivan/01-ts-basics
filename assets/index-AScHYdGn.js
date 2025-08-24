@@ -11,7 +11,7 @@
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Vite and TypeScript logos to learn more
+      Hello world!
     </p>
   </div>
 `;a(document.querySelector("#counter"));
